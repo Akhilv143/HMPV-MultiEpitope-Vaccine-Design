@@ -1,7 +1,6 @@
 # In Silico Design and Immunoinformatics Analysis of a Novel Multi-Epitope Vaccine Against Human Metapneumovirus (HMPV)
 
 ## 🎓 Project Information
-- **Project Type:** MSc Bioinformatics Minor Project
 - **Student:** Akhil V (Register Number: 24MSBI143)
 - **Institution:** Garden City University, Bangalore
 - **Department:** Bioinformatics, School of Life Sciences
