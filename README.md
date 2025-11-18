@@ -1,20 +1,20 @@
 # In Silico Design and Immunoinformatics Analysis of a Novel Multi-Epitope Vaccine Against Human Metapneumovirus (HMPV)
 
-📋 Abstract
+Abstract
 Human metapneumovirus (HMPV), a member of the Pneumoviridae family, is a significant pathogen responsible for respiratory tract infections including pneumonia, asthma exacerbations, and complications in individuals with chronic obstructive pulmonary disease (COPD). **HMPV accounts for approximately 10%–12% of respiratory infections in children**, with about 5% progressing to lower respiratory infections such as pneumonia. As of now, **no licensed vaccines are available** for clinical use against HMPV.
 
 This study employs a **computational vaccine design strategy** using immunoinformatics tools to create a multi-epitope vaccine candidate.
 
 ### Key Achievements:
-- ✅ **96.92% global population coverage**
-- ✅ Antigenic, non-allergenic, and non-toxic
-- ✅ Favorable physicochemical properties
-- ✅ Structural stability confirmed through molecular dynamics
-- ✅ Strong binding affinity with immune receptors (TLR4, MHC-I, MHC-II)
+- **96.92% global population coverage**
+- Antigenic, non-allergenic, and non-toxic
+- Favorable physicochemical properties
+- Structural stability confirmed through molecular dynamics
+- Strong binding affinity with immune receptors (TLR4, MHC-I, MHC-II)
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. Design a multi-epitope vaccine against HMPV using reverse vaccinology approach
 2. Identify immunogenic B-cell, CTL, and HTL epitopes from viral proteins
@@ -25,7 +25,7 @@ This study employs a **computational vaccine design strategy** using immunoinfor
 
 ---
 
-## 🧬 Target Proteins Selected
+## Target Proteins Selected
 
 Eight HMPV proteins were selected based on their critical roles in viral pathogenesis:
 
@@ -42,7 +42,7 @@ Eight HMPV proteins were selected based on their critical roles in viral pathoge
 
 ---
 
-## 🔬 Methodology
+## Methodology
 
 ### 1. Sequence Retrieval
 - **Database:** UniProt (https://www.uniprot.org/)
@@ -158,7 +158,7 @@ All predicted epitopes underwent rigorous screening:
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 ### Population Coverage Analysis
 
@@ -199,11 +199,11 @@ This exceptional global coverage ensures the vaccine would be effective across d
 - And 3 more...
 
 **All epitopes validated as:**
-- ✅ Antigenic
-- ✅ Immunogenic  
-- ✅ Non-allergenic
-- ✅ Non-toxic
-- ✅ IFN-γ positive (HTL)
+- Antigenic
+- Immunogenic  
+- Non-allergenic
+- Non-toxic
+- IFN-γ positive (HTL)
 
 ### Physicochemical Properties of Vaccine Construct
 
@@ -237,7 +237,7 @@ Balanced secondary structure indicates proper folding and stability.
 - **Generously allowed regions:** 0%
 - **Disallowed regions:** 0%
 
-✅ **Excellent model quality** - over 90% residues in favored region
+**Excellent model quality** - over 90% residues in favored region
 
 #### ProSA Z-Score:
 - **Z-score:** -3.0
@@ -266,7 +266,7 @@ Balanced secondary structure indicates proper folding and stability.
 - **Cluster Size:** 10 structures  
 - **Interpretation:** Excellent HTL epitope presentation
 
-✅ All three complexes show strong, stable binding interactions
+All three complexes show strong, stable binding interactions
 
 ### Molecular Dynamics Simulation (100 ns)
 
@@ -290,7 +290,7 @@ Balanced secondary structure indicates proper folding and stability.
 - Peak fluctuations: up to 3.5 Å (residues 800-1000)
 - **Interpretation:** Overall stability with flexible loops at binding interfaces
 
-✅ **Vaccine-TLR4 complex is structurally stable** and suitable for further analysis
+**Vaccine-TLR4 complex is structurally stable** and suitable for further analysis
 
 ### Immune Response Simulation
 
@@ -319,11 +319,11 @@ The C-ImmSim server predicted robust immune responses:
 - **IL-23:** Th17 response
 - **IFN-β:** Type I interferon response
 
-✅ The vaccine is predicted to generate **comprehensive immune memory** and both humoral and cellular immunity
+The vaccine is predicted to generate **comprehensive immune memory** and both humoral and cellular immunity
 
 ---
 
-## 📚 Tools & Databases
+## Tools & Databases
 
 ### Sequence & Database Resources
 | Tool/Database | Purpose | URL |
@@ -367,23 +367,23 @@ The C-ImmSim server predicted robust immune responses:
 
 ---
 
-## 💡 Discussion
+## Discussion
 
 ### Why Reverse Vaccinology?
 
 Traditional vaccine development is:
-- ⏱️ Time-consuming (10-15 years)
-- 💰 Expensive (billions of dollars)
-- 🦠 Requires pathogen cultivation
-- ⚠️ Safety concerns with live/attenuated vaccines
+-  Time-consuming (10-15 years)
+-  Expensive (billions of dollars)
+-  Requires pathogen cultivation
+-  Safety concerns with live/attenuated vaccines
 
 **Reverse vaccinology advantages:**
-- ⚡ Rapid design (months vs years)
-- 💻 Computational screening
-- 🎯 Targeted epitope selection
-- 🔒 Enhanced safety (no live pathogen)
-- 🌐 Population coverage analysis
-- 💵 Cost-effective
+- Rapid design (months vs years)
+- Computational screening
+- Targeted epitope selection
+- Enhanced safety (no live pathogen)
+- Population coverage analysis
+- Cost-effective
 
 ### Multi-Epitope Vaccine Benefits
 
@@ -420,15 +420,15 @@ Traditional vaccine development is:
 - High risk groups: elderly, immunocompromised, COPD patients
 
 **Current Status:**
-- ❌ No licensed vaccines available
-- ❌ No specific antiviral treatments
-- 💉 Only supportive care available
+- No licensed vaccines available
+-  No specific antiviral treatments
+-  Only supportive care available
 
 **Our Solution:**
-- ✅ Computationally designed multi-epitope vaccine
-- ✅ Targets conserved viral proteins
-- ✅ Predicted to be safe and effective
-- ✅ Ready for experimental validation
+- Computationally designed multi-epitope vaccine
+- Targets conserved viral proteins
+- Predicted to be safe and effective
+- Ready for experimental validation
 
 ### Vaccine Safety Considerations
 
@@ -445,33 +445,33 @@ Traditional vaccine development is:
 
 ---
 
-## 🎯 Conclusions
+## Conclusions
 
 ### Primary Findings:
 
-1. ✅ **Successfully designed** a novel multi-epitope vaccine against HMPV using immunoinformatics
+1. **Successfully designed** a novel multi-epitope vaccine against HMPV using immunoinformatics
 
-2. ✅ **Selected 42 high-quality epitopes** (7 B-cell + 27 CTL + 8 HTL) from 8 viral proteins
+2. **Selected 42 high-quality epitopes** (7 B-cell + 27 CTL + 8 HTL) from 8 viral proteins
 
-3. ✅ **Achieved 96.92% global population coverage** - suitable for worldwide deployment
+3. **Achieved 96.92% global population coverage** - suitable for worldwide deployment
 
-4. ✅ **Favorable physicochemical properties:**
+4. **Favorable physicochemical properties:**
    - Stable (instability index: 25.55)
    - Thermostable (aliphatic index: 85.90)
    - Soluble (score: 0.812)
    - Optimal molecular weight (46.85 kDa)
 
-5. ✅ **Excellent structural quality:**
+5. **Excellent structural quality:**
    - 94.5% residues in favored Ramachandran region
    - Z-score: -3.0 (good quality)
    - Stable over 100 ns MD simulation
 
-6. ✅ **Strong receptor binding:**
+6. **Strong receptor binding:**
    - TLR4: -183.2 ± 41.6
    - MHC-I: -186.4 ± 11.5
    - MHC-II: -190.1 ± 16.9
 
-7. ✅ **Robust predicted immune response:**
+7. **Robust predicted immune response:**
    - Both humoral and cellular immunity
    - Memory formation
    - Appropriate cytokine profile
@@ -488,103 +488,10 @@ This study demonstrates that **computational vaccine design** is a viable, effic
 4. **Clinical trials necessary** - before human use
 5. **Long-term immunity unknown** - requires longitudinal studies
 
-### Recommendations:
 
-The designed vaccine shows excellent potential and should proceed to:
-1. 🧪 **Experimental synthesis**
-2. 🔬 **In vitro validation**
-3. 🐁 **Animal model testing**
-4. 👨‍⚕️ **Clinical trials** (if successful)
+  
 
----
 
-## 🔮 Future Scope
-
-### Immediate Next Steps (In Silico):
-
-1. **Codon Optimization**
-   - Optimize for E. coli expression system
-   - Calculate CAI (Codon Adaptation Index)
-   - Avoid rare codons
-
-2. **In Silico Cloning**
-   - Clone into pET-28a(+) vector
-   - Design primers
-   - Verify restriction sites
-
-3. **Expression Prediction**
-   - Predict expression levels
-   - Identify potential bottlenecks
-
-### Laboratory Validation (Short-term):
-
-1. **Gene Synthesis & Cloning**
-   - Synthesize optimized gene
-   - Clone into expression vector
-   - Transform into E. coli BL21(DE3)
-
-2. **Protein Expression**
-   - IPTG induction
-   - Optimization of expression conditions
-   - SDS-PAGE analysis
-
-3. **Protein Purification**
-   - Ni-NTA affinity chromatography (using His-tag)
-   - Size exclusion chromatography
-   - Western blot confirmation
-
-4. **Biophysical Characterization**
-   - CD spectroscopy (secondary structure)
-   - DLS (size distribution)
-   - Thermal stability analysis
-
-### Preclinical Studies (Medium-term):
-
-1. **In Vitro Immunogenicity**
-   - PBMC stimulation assays
-   - Cytokine profiling (ELISA)
-   - T-cell proliferation assays
-   - B-cell activation assays
-
-2. **Animal Model Studies**
-   - Mouse immunization (BALB/c)
-   - Antibody titer measurement
-   - T-cell response evaluation
-   - Challenge studies with HMPV
-   - Toxicity and safety assessment
-
-3. **Efficacy Testing**
-   - Viral load reduction
-   - Symptom scoring
-   - Histopathology
-   - Long-term immunity assessment
-
-### Clinical Development (Long-term):
-
-1. **Phase I Clinical Trials**
-   - Safety in healthy volunteers
-   - Dose escalation studies
-   - Adverse event monitoring
-
-2. **Phase II Clinical Trials**
-   - Immunogenicity in target population
-   - Optimal dosing regimen
-   - Preliminary efficacy
-
-3. **Phase III Clinical Trials**
-   - Large-scale efficacy studies
-   - Different age groups
-   - High-risk populations
-
-4. **Regulatory Approval**
-   - FDA/EMA submission
-   - Manufacturing scale-up
-   - Quality control protocols
-
-5. **Post-Market Surveillance**
-   - Adverse event reporting
-   - Real-world effectiveness
-   - Long-term safety monitoring
 
 ### Additional Considerations:
 
@@ -596,33 +503,12 @@ The designed vaccine shows excellent potential and should proceed to:
 
 ---
 
-## 👨‍🎓 Acknowledgments
 
-This project would not have been possible without the support and guidance of:
 
-### Academic Guidance:
-- **Dr. L. A. Rama Chandra Prasad** (Project Guide, Assistant Professor) - For his invaluable guidance, insights, and continuous support throughout the project
-- **Dr. Preethi Rajesh** (Head of Department, Life Sciences) - For providing the opportunity and resources
-- **Garden City University Faculty** - For their academic support and expert knowledge
-
-### Institutional Support:
-- **Dr. Joseph V.G.** (Chancellor, Garden City University)
-- **Prof. G R Naik** (Vice Chancellor)
-- **Professor Sheeja MS** (Registrar)
-- **Professor Sibi Shaji** (Controller of Examinations)
-
-### Personal:
-- **Family and Friends** - For their unwavering support and encouragement
-- **Batch Mates** - For collaboration and discussions
-
-### Tools & Resources:
-- Open-source bioinformatics community
-- IEDB, UniProt, NCBI databases
-- All software developers who made this research possible
 
 ---
 
-## 📚 Key References
+##  Key References
 
 ### HMPV Discovery & Epidemiology:
 1. van den Hoogen BG et al. (2001). A newly discovered human pneumovirus. *Nat Med* 7(6):719-24.
@@ -653,38 +539,38 @@ This project would not have been possible without the support and guidance of:
 
 ---
 
-## 📊 Project Statistics
+## Project Statistics
 
-- **📄 Report Pages:** 40
-- **📑 Figures:** 13
-- **📊 Tables:** 3
-- **🧬 Proteins Analyzed:** 8
-- **🔬 Epitopes Identified:** 42 (7 B-cell + 27 CTL + 8 HTL)
-- **⏱️ Project Duration:** July 2024
-- **💻 Tools Used:** 15+
-- **🌍 Population Coverage:** 96.92%
-- **📚 References:** 30
+- **Report Pages:** 40
+- ** Figures:** 13
+- **Tables:** 3
+- **Proteins Analyzed:** 8
+- **Epitopes Identified:** 42 (7 B-cell + 27 CTL + 8 HTL)
+- ** Project Duration:** July 2024
+- **Tools Used:** 15+
+- **Population Coverage:** 96.92%
+- ** References:** 30
 
 ---
 
-## 📞 Contact Information
+## Contact Information
 
 **Student:**
-- **Name:** Akhil V
+- **Name:** 
 - **Register Number:** 24MSBI143
 - **Program:** MSc Bioinformatics
-- **Institution:** Garden City University, Bangalore - 560049
+- **Institution:**  - 560049
 - **Department:** Bioinformatics, School of Life Sciences
 
 **Project Guide:**
 - **Name:** Dr. L. A. Rama Chandra Prasad
 - **Designation:** Assistant Professor
 - **Department:** Bioinformatics, School of Life Sciences
-- **Institution:** Garden City University, Bangalore
+- **Institution:** 
 
 ---
 
-## 📜 Repository Structure
+##  Repository Structure
 
 ```
 HMPV-MultiEpitope-Vaccine-Design/
@@ -713,7 +599,7 @@ HMPV-MultiEpitope-Vaccine-Design/
 
 ---
 
-## 📝 How to Cite This Work
+##  How to Cite This Work
 
 ### APA Format:
 ```
@@ -722,33 +608,23 @@ Multi-Epitope Vaccine Against Human Metapneumovirus (HMPV). [Master's thesis,
 Garden City University]. GitHub. https://github.com/Akhilv143/HMPV-MultiEpitope-Vaccine-Design
 ```
 
-### BibTeX Format:
-```bibtex
-@mastersthesis{akhil2024hmpv,
-  title={In Silico Design and Immunoinformatics Analysis of a Novel Multi-Epitope Vaccine Against Human Metapneumovirus (HMPV)},
-  author={Akhil, V},
-  year={2024},
-  month={July},
-  school={Garden City University},
-  address={Bangalore, Karnataka, India},
-  type={MSc Bioinformatics Minor Project},
-  note={Register Number: 24MSBI143}
+
 }
 ```
 
 ---
 
-## ⚖️ License
+##  License
 
-This project was submitted in partial fulfillment of the requirements for the award of Master of Science in Bioinformatics at Garden City University, Bangalore.
+This project was submitted in partial fulfillment of the requirements for the award of Master of Science in Bioinformatics at .
 
 **Academic Use:** This work is available for academic reference and educational purposes.
 
-**Copyright:** © 2024 Akhil V, Garden City University. All rights reserved.
+**Copyright:** © 2024 , Garden City University. All rights reserved.
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 **Important Notice:**
 
@@ -766,34 +642,34 @@ The predictions and results presented are based on computational analysis and sh
 
 ---
 
-## ⭐ Keywords & Tags
+## Keywords & Tags
 
 `Bioinformatics` `Vaccine Design` `HMPV` `Human Metapneumovirus` `Multi-Epitope Vaccine` `Immunoinformatics` `Reverse Vaccinology` `In Silico` `Computational Biology` `Epitope Prediction` `Molecular Docking` `Molecular Dynamics` `Population Coverage` `TLR4` `MHC-I` `MHC-II` `CTL Epitopes` `HTL Epitopes` `B-cell Epitopes` `AlphaFold` `HADDOCK` `Respiratory Virus` `Vaccine Development` `MSc Project` `Garden City University` `Bangalore`
 
 ---
 
-## 📢 Project Status
+##  Project Status
 
-🟢 **Status:** Computational Design Complete  
-🟡 **Next Phase:** Experimental Validation (Pending)  
-📅 **Last Updated:** July 2024  
-🎯 **Completion:** 100% (Computational Phase)
+ **Status:** Computational Design Complete  
+ **Next Phase:** Experimental Validation (Pending)  
+ **Last Updated:** July 2024  
+**Completion:** 100% (Computational Phase)
 
 ---
 
-## 👁️ Visitors
+##  Visitors
 
 ![Views](https://komarev.com/ghpvc/?username=Akhilv143&repo=HMPV-MultiEpitope-Vaccine-Design&color=blue&style=flat-square&label=Repository+Views)
 
 ---
 
-## 🌟 Star This Repository
+##  Star This Repository
 
 If you find this work useful for your research or studies, please consider giving it a star ⭐
 
 ---
 
-**Built with ❤️ by Akhil V | MSc Bioinformatics | Garden City University, Bangalore**
+**Built with by  | MSc Bioinformatics | **
 
 **Project Completed:** July 2024 | **Repository Created:** November 2024
 
@@ -803,13 +679,13 @@ If you find this work useful for your research or studies, please consider givin
 
 ---
 
-## 🔗 Quick Links
+## Quick Links
 
-- [🏠 Garden City University](https://www.gardencityuniversity.edu.in/)
-- [📋 Full Project Report](./Project_Report.pdf) *(To be uploaded)*
-- [📄 Protein Sequences](./data/protein_sequences.fasta) *(To be uploaded)*
-- [🧬 Vaccine Construct](./data/vaccine_construct.fasta) *(To be uploaded)*
-- [📊 Results & Figures](./results/) *(To be uploaded)*
+- [ Garden City University](https://www.gardencityuniversity.edu.in/)
+- [Full Project Report](./Project_Report.pdf) *(To be uploaded)*
+- [Protein Sequences](./data/protein_sequences.fasta) *(To be uploaded)*
+- [Vaccine Construct](./data/vaccine_construct.fasta) *(To be uploaded)*
+- [Results & Figures](./results/) *(To be uploaded)*
 
 ---
 
