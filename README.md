@@ -1,16 +1,6 @@
 # In Silico Design and Immunoinformatics Analysis of a Novel Multi-Epitope Vaccine Against Human Metapneumovirus (HMPV)
 
-## 🎓 Project Information
-- **Student:** Akhil V (Register Number: 24MSBI143)
-- **Institution:** Garden City University, Bangalore
-- **Department:** Bioinformatics, School of Life Sciences
-- **Guide:** Dr. L. A. Rama Chandra Prasad (Assistant Professor)
-- **Submission Date:** July 2024
-
----
-
-## 📋 Abstract
-
+📋 Abstract
 Human metapneumovirus (HMPV), a member of the Pneumoviridae family, is a significant pathogen responsible for respiratory tract infections including pneumonia, asthma exacerbations, and complications in individuals with chronic obstructive pulmonary disease (COPD). **HMPV accounts for approximately 10%–12% of respiratory infections in children**, with about 5% progressing to lower respiratory infections such as pneumonia. As of now, **no licensed vaccines are available** for clinical use against HMPV.
 
 This study employs a **computational vaccine design strategy** using immunoinformatics tools to create a multi-epitope vaccine candidate.
